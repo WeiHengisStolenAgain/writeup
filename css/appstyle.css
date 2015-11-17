@@ -1,0 +1,28 @@
+html, body
+{
+  
+  height: 98%;
+  width: 98%;
+
+}
+
+body {
+    background: #e5f2ff;
+
+}
+
+
+h3 {color:black;
+  font-size: 30px;
+  user-select: none;
+  text-align: center;
+}
+
+
+#centerDiv {
+  border: 0px solid black;
+  width: 1100px;
+  height: 1200px;
+  margin: auto;
+  background-size: 1100px 1000px;
+}
